@@ -1,0 +1,7 @@
+# ninja log v5
+3	355	7309432924140431	CMakeFiles/2_lab_c__.dir/main.cpp.obj	a0f79a8fa4596ebe
+3	398	7309436212840015	CMakeFiles/2_lab_c__.dir/integerSet.cpp.obj	c2e74fcb42e39796
+399	474	7309436213554667	2_lab_c__.exe	beec9432ee612aa9
+3	385	7309438798694161	CMakeFiles/2_lab_c__.dir/main.cpp.obj	8f21d9a8864f5c58
+8	405	7309438798890763	CMakeFiles/2_lab_c__.dir/integerSet.cpp.obj	9486d2dd490035b3
+405	484	7309438799639279	2_lab_c__.exe	beec9432ee612aa9

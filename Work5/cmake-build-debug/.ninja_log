@@ -1,0 +1,13 @@
+# ninja log v5
+14	653	7339690929657035	CMakeFiles/lab5.dir/main.cpp.obj	3d6bbcc53832df5c
+653	800	7339690931056254	lab5.exe	6c2836f80fc6e899
+5	639	7339690929523611	CMakeFiles/lab5.dir/array.cpp.obj	2095052a5db69a2f
+14	537	7339705075043114	CMakeFiles/lab5.dir/error.cpp.obj	6abacec85bb6ff7a
+7	667	7339705076341310	CMakeFiles/lab5.dir/array.cpp.obj	2095052a5db69a2f
+22	742	7339705077095655	CMakeFiles/lab5.dir/main.cpp.obj	3d6bbcc53832df5c
+743	899	7339705078598960	lab5.exe	5ee2bc5098baec0f
+5	657	7339710147679532	CMakeFiles/lab5.dir/array.cpp.obj	2095052a5db69a2f
+13	702	7339710148131211	CMakeFiles/lab5.dir/main.cpp.obj	3d6bbcc53832df5c
+708	859	7339710149641253	lab5.exe	5ee2bc5098baec0f
+5	733	7339710354904171	CMakeFiles/lab5.dir/main.cpp.obj	3d6bbcc53832df5c
+733	881	7339710356311833	lab5.exe	5ee2bc5098baec0f
